@@ -1,6 +1,5 @@
-# 💻 About Me
 
-Hello, I’m Artem, a Data Analyst with a strong interest in Computers and Data Science. My expertise lies in working with data, identifying patterns, developing solutions, and applying structured approaches to problem-solving.
+Hello, **I’m Artem, a Data Analyst** with a strong interest in Computers and Data Science. My expertise lies in working with data, identifying patterns, developing solutions, and applying structured approaches to problem-solving.
 
 # 🚀 Skills
 
