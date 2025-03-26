@@ -10,8 +10,7 @@ Hello, **I’m Artem, a Data Analyst** with a strong interest in Computers and D
 
 # 📂 Projects
 
-Here are some of my key projects:
-
-1. **Bank Churn Investigation** - Prediction of customer churn with recommendations ([GitHub Link], [WebApp Link]([https://bank-customer-analysis-retention-and-churn-forecasting.streamlit.app/](https://co2emissiondashboards.streamlit.app/)))
-2. **CO2 Emission Dashboard** - Analysis of CO2 emissions by regions, countries, and sectors ([GitHub Link](https://github.com/RainbowHD/CO2_Emission_Dashboards), [WebApp Link](https://bank-customer-analysis-retention-and-churn-forecasting.streamlit.app/))
+Here are some of my last projects:
+1. **Bank Churn Investigation** - Prediction of customer churn with recommendations ([GitHub Code](https://github.com/RainbowHD/Bank-Customer-Analysis-Retention-and-Churn-Forecasting), [WebApp Link](https://bank-customer-analysis-retention-and-churn-forecasting.streamlit.app/))
+2. **CO2 Emission Dashboard** - Analysis of CO2 emissions by regions, countries, and sectors ([GitHub Code](https://github.com/RainbowHD/CO2_Emission_Dashboards), [WebApp Link](https://co2emissiondashboards.streamlit.app/))
 
