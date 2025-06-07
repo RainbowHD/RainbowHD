@@ -3,10 +3,10 @@ Hello, **I’m Artem, a Data Analyst** with a strong interest in Computers and D
 
 # 🚀 Skills
 
-- **Programming Languages:** Python, SQL, HTML
-- **Frameworks & Libraries:** Scikit-learn, XGBoost, pandas, NumPy, Matplotlib, Plotly, Streamlit
+- **Programming Languages:** Python, SQL
+- **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit
 - **BI Tools:** Tableau
-- **Interests:** Business, Finance, Macroeconomics, Machine Learning, and Data Science
+- **Interests:** Business, Finance, Macroeconomics and Machine Learning
 
 # 📂 Projects
 
