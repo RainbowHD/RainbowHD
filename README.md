@@ -1,12 +1,11 @@
+Hey, **I’m Artem - a Data Scientist** who loves diving into massive datasets to retrieve hidden patterns and derive insights that actually move the needle.
 
-Hello, **I’m Artem, a Data Analyst** with a strong interest in Computers and Data Science. I focus on working with data to identify patterns, design solutions, and apply organized strategies to solve problems.
-
-# 🚀 Skills
+# ⚒️ Skills
 
 - **Programming Languages:** Python, SQL
 - **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit
-- **BI Tools:** Tableau
-- **Interests:** Business, Finance, Macroeconomics and Machine Learning
+- **Software Tools:** Tableau, Git, GitHub, Trello, Jira, Slack 
+  
 
 # 📂 Projects
 
