@@ -1,13 +1,13 @@
 Hey, **I’m Artem - a Data Scientist** who loves diving into massive datasets to retrieve hidden patterns and derive insights that actually move the needle.
 
-# ⚒️ Skills
+## ⚒️ Skills
 
 - **Programming Languages:** Python, SQL
 - **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit
 - **Software Tools:** Tableau, Git, GitHub, Trello, Jira, Slack 
   
 
-# 📂 Projects
+## 📂 Projects
 
 Here are some of my recent projects:
 1. **Bank Churn Investigation** - Prediction of customer churn with recommendations ([GitHub Code and Preview](https://github.com/RainbowHD/Bank-Customer-Analysis-Retention-and-Churn-Forecasting), [WebApp Link](https://bank-customer-analysis-retention-and-churn-forecasting.streamlit.app/))
