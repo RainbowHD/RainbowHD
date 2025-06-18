@@ -3,7 +3,7 @@ Hey, **I’m Artem - a Data Scientist** who loves diving into massive datasets t
 ## ⚒️ Skills
 
 - **Programming Languages:** Python, SQL
-- **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit
+- **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit, Gensim, SciPy
 - **Software Tools:** Tableau, Git, GitHub, Trello, Jira, Slack 
   
 
