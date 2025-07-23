@@ -1,8 +1,6 @@
-Hey, **I’m Artem - a Data Scientist** who loves diving into massive datasets to retrieve hidden patterns and derive insights that actually move the needle.
-
 ## ⚒️ Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, mySQL
 - **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit, Gensim, SciPy
 - **Software Tools:** Tableau, Git, GitHub, Trello, Jira, Slack 
   
