@@ -1,8 +1,8 @@
 ## ⚒️ Skills
 
 - **Programming Languages:** Python, mySQL
-- **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit, Gensim, SciPy
-- **Software Tools:** Tableau, Git, GitHub, Trello, Jira, Slack 
+- **Frameworks & Libraries:** Scikit-learn, pandas, NumPy, Matplotlib, Streamlit, Gensim, SciPy, TensorFlow, PyTorch, Random Forest
+- **Software Tools:** Tableau, Git, GitHub, Trello, Jira, Slack
   
 
 ## 📂 Projects
